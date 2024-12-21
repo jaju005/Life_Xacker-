@@ -69,3 +69,4 @@ How to Use This Repository
 1. Clone the repository to your local machine:
 2. git clone https://github.com/YourUsername/RepositoryName.git
 3. Install the necessary dependencies
+pip install -r requirements.txt
