@@ -70,3 +70,20 @@ How to Use This Repository
 2. git clone https://github.com/YourUsername/RepositoryName.git
 3. Install the necessary dependencies
 pip install -r requirements.txt
+Explore individual project directories and follow the instructions in each README file.
+
+
+
+
+---
+
+Contribution
+
+If you’d like to contribute to this repository, feel free to fork it and create a pull request. Let’s make AI and ML more accessible and impactful together!
+
+
+---
+
+License
+
+This repository is licensed under the MIT License. Feel free to use and modify the code as needed.
