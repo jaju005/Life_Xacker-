@@ -67,4 +67,5 @@ Uses pre-trained language models for accuracy.
 How to Use This Repository
 
 1. Clone the repository to your local machine:
-2. 
+2. git clone https://github.com/YourUsername/RepositoryName.git
+3. 
